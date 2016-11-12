@@ -13,7 +13,7 @@ You can do this with as many images as you want, but you need at least 2 so you 
 
 ## Requirements
 
-1. The image starts off in the center of the screen (this should work with any given image with an arbitrary size)
+1. The image starts off in the center of the screen (this should work with any given image)
 2. Pressing an arrow key will make the image move in that direction (Up, Down, Left, Right)
 3. Holding the key will allow continuous movement until you let go
 4. The image stays on the display surface; it **cannot** move off of the screen
