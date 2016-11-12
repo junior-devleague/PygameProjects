@@ -28,8 +28,8 @@ You can do this with as many images as you want, but you need at least 2 so you 
 - How do you check to see if your image is moving off of the screen? How would you stop it?
 - Functions you should look up:
   - get_rect()
-  - collidepoint()
   - mouse.get_pos()
+  - collidepoint()
 
 ## Hard Mode
 
