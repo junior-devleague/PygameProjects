@@ -21,7 +21,7 @@ You can do this with as many images as you want, but you need at least 2 so you 
 
 ## Important Hints
 
-- Since when you press and hold down an arrow key it only moves once and doesn't keep going, you'll have to account for the different KEYDOWN and KEYUP events, as well as have a flag to check if your image should move.
+- Since when you press and hold down an arrow key it only moves once and doesn't keep going, you'll have to account for the different KEYDOWN and KEYUP events, as well as have a flag to check if your image should move. (Or find a function to make this easier!)
 - Know the difference between a Surface and a Rectangle.
   - What are the member variables (attributes) of a Rectangle?
   - What are the methods of each object?
