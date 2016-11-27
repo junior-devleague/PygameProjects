@@ -38,4 +38,4 @@ If you finish early, here are some more requirements to add on to your Pygame to
 - Add another autonomous, randomly moving image or shape on the screen.
   - If you collide with that image/shape, you "eat" it so it disappears and all of your images grow in size.
   - After the image/shape disappears, another one should show up on the screen somewhere randomly.
-- If you press the space bar, bullets (read: rectangles) will shoot out of your image from a direction of your choice and kill the enemy image/shape.
+- If you press the space bar, bullets (read: Sprites or rectangles) will shoot out of your image from a direction of your choice and kill the enemy image/shape.
